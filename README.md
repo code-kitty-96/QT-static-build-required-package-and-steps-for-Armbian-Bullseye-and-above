@@ -1,6 +1,6 @@
-Steps to build QT static library for TV box running Armbian Linux
+Steps to build QT static library for TV box running Armbian Linux. 
 
-Includes some additional libaray files needed beyond https://doc.qt.io/qt-6/linux-building.html
+Armbian_bullseye.txt file includes some additional libaray files needed beyond https://doc.qt.io/qt-6/linux-building.html
 
 Armbian Linux is from https://github.com/ophub/amlogic-s9xxx-armbian?tab=readme-ov-file
 
