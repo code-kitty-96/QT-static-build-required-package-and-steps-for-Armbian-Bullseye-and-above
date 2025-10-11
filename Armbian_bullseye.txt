@@ -56,6 +56,8 @@ sudo apt install libxkbcommon-x11-dev
 sudo apt install libxrender-dev
 sudo apt install libxcb-dri3-dev
 sudo apt install libdrm-dev
+sudo apt install libtiff-dev
+sudo apt install libwebp-dev
 
 
 wget https://github.com/ninja-build/ninja/releases/download/v1.13.1/ninja-linux.zip
@@ -98,4 +100,5 @@ node --version
 /home/ubuntu/Downloads/qt-everywhere-src-6.9.2/configure -static -release -xcb -xcb-xlib -bundled-xcb-xinput -platform linux-clang
 
 // build QT using gcc
+
 /home/ubuntu/Downloads/qt-everywhere-src-6.9.2/configure -static -release -xcb -xcb-xlib -bundled-xcb-xinput
